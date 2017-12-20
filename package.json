@@ -1,0 +1,22 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "pouchdb": "^6.4.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "http-string-parser": "0.0.6",
+    "nodemon": "^1.13.3",
+    "random-word": "^2.0.0"
+  }
+}
